@@ -10,13 +10,13 @@ namespace LambdatestPoc;
 [TestClass]
 public class LambdatestSelenium
 {
-    private const string User = "";
-    private const string AccessKey = "";
+    private const string User = "mariuszbrzozowski1985";
+    private const string AccessKey = "zrZFS6epTfiG3xX61aMatNBVwiXLNtSKWgUOwpTrRk9wscgiU1";
     
     private const string Hub = "https://hub.lambdatest.com/wd/hub/";
     private const string MobileHub = "https://mobile-hub.lambdatest.com/wd/hub";
     
-    private const string TestUrl = "";
+    private const string TestUrl = "http://it.staging.shfydigital.com/";
     
     [TestMethod]
     [DataRow(Common.Browser.Chrome, Common.OperationSystem.Windows)]

@@ -5,10 +5,10 @@ namespace LambdatestPoc;
 [TestClass]
 public class LambdatestPlaywright
 {
-    private const string User = "";
-    private const string AccessKey = "";
+    private const string User = "mariuszbrzozowski1985";
+    private const string AccessKey = "zrZFS6epTfiG3xX61aMatNBVwiXLNtSKWgUOwpTrRk9wscgiU1";
 
-    private const string TestUrl = "";
+    private const string TestUrl = "http://it.staging.shfydigital.com/";
     
     [TestMethod]
     [DataRow("Chrome")]

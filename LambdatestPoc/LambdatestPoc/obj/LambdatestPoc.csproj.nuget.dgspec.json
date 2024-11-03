@@ -40,31 +40,33 @@
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[3.0.4, )"
+              "version": "[3.6.2, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[3.0.4, )"
+              "version": "[3.6.2, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.6.0, )"
+              "version": "[17.11.1, )"
             },
             "Microsoft.Playwright": {
               "target": "Package",
-              "version": "[1.41.2, )"
+              "version": "[1.48.0, )"
             },
             "Selenium.Support": {
               "target": "Package",
-              "version": "[4.17.0, )"
+              "version": "[4.26.1, )"
             },
             "Selenium.WebDriver": {
               "target": "Package",
-              "version": "[4.17.0, )"
+              "version": "[4.26.1, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.2, )"
             }
           },
           "imports": [
@@ -83,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

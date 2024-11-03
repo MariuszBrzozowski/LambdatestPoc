@@ -1,10 +1,6 @@
 
-J
-LambdatestPoc/UnitTest1.cs,7/4/7460828d9df1c4c1459752ff9601b13a3662384e
 G
 LambdatestPoc/Common.cs,0/3/03b13190f0b060abb7e074159cbc7a350c2b4a9c
-V
-&LambdatestPoc/PlaywrightTestProject.cs,9/f/9f0aca59d29be719b2320ebbf03217427834f7cf
 S
 #LambdatestPoc/LambdatestSelenium.cs,6/b/6b5c1a462ce04987961475a4612c24887d9a4291
 U
